@@ -9,6 +9,7 @@
 :oncoming_automobile: **Fan de la F1, Futbol, Prospecto de Hacker & Programador**
 
 ### Vías de Contacto 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Flinkedin.com%2Fin%2Fdanielandresperez)
+[![LinkedIn](https://shields.io)](https://linkedin.com/in/danielandresperez)
+
 
 :envelope: **Email:** (mailto:contacto@pys-consultores.com)
